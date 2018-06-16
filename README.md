@@ -7,6 +7,11 @@ Blogs:
 * [Part 2](https://medium.freecodecamp.org/how-to-set-up-a-powerful-api-with-nodejs-graphql-mongodb-hapi-and-swagger-part-ii-80266790a3ac)
 * GraphQL: [site](https://graphql.org/)
 * graphiql (in-browser IDE for exploring GraphQL): [github](https://github.com/graphql/graphiql)
+* swagger.io: [site](https://swagger.io/)
+* hapi-swagger: [github](https://github.com/glennjones/hapi-swagger)
+* inert.js (static file handler for hapi.js): [github](https://github.com/hapijs/inert)
+* vision (template rendering support for hapi.js): [github](https://github.com/hapijs/vision)
+
 
 ## Notes
 * Needed some mongoose mods: [getting started](http://mongoosejs.com/docs/)
